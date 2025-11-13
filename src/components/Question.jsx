@@ -1,4 +1,4 @@
-import QUESTIONS from '../../questions.js';
+import QUESTIONS from '../questions.js';
 import Answers from './Answers.jsx';
 
 export default function Question({ index, handleUserAnswer }) {

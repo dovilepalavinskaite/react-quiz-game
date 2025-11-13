@@ -11,3 +11,24 @@ header {
   font-family: "Rubik Bubbles", system-ui;
   color: #a3297a;
 }
+
+.results-stats p {
+  flex: 1;
+  display: flex;
+  flex-direction: column;
+  margin: 0;
+}
+
+.results-stats .percentage {
+  font-size: 3rem;
+  color: #594276;
+}
+
+.results-stats .text {
+  text-transform: uppercase;
+  font-size: 0.8rem;
+  color: #30273a;
+  margin-top: -0.7rem;
+  margin-left: 0.2rem;
+  letter-spacing: 0.1rem;
+}

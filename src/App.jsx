@@ -1,7 +1,7 @@
 import { useState } from 'react'
 import './App.css'
-import Header from './assets/components/Header.jsx';
-import GameScreen from './assets/components/GameScreen.jsx';
+import Header from './components/Header.jsx';
+import GameScreen from './components/GameScreen.jsx';
 
 function App() {
   
